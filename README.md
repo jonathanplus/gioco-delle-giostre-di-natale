@@ -1,2 +1,2 @@
 # gioco-delle-giostre-di-natale
-Gioco delle giostre modificato
+Gioco delle giostre modificato.  Dopo tante richieste da parte di mio figlio di accende una giostra di natale, ho deciso di renderlo piu' interessante, usando un arduino nano e 3 pulsanti ho fatto in modo che le giostre si accendono , in modalità solo movimento , alla pressione del pulsante , con una durata di 30 secondi, se in questi 30 secondi il pulsante se viene premuto una seconda volta parte anche l'effetto musicale.
